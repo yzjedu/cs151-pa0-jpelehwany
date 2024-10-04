@@ -51,4 +51,4 @@
 ### Comments on the grading
 - Work on intro comments
 - There is no client satisfaction confirmation letter. Hence, N grade.
-### Grade: N
+### Grade: R
